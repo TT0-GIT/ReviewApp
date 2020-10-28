@@ -6,10 +6,7 @@ app with rn
 
 ## libraries
 
-#### react-navigation:
-
-#######stack navigation
-#######drawer navigation
+#### react-navigation: stack navigation / drawer navigation
 
 #### formik: yup for schema validation
 
